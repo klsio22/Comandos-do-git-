@@ -6,7 +6,7 @@ subir commit para a branch secundaria : git push origin nova Branch
 
 mudar de Branch : git checkout nome da Branch 
 
-Transferir arquivos da branch secundária para principal : git marge nome da Branch secundaria ; 
+Transferir arquivos da branch secundária para principal : git merge nome da Branch secundaria ; 
 obs : primeiro migre para branch principal antes de imergir os arquivos na Branch principal . 
 
 subir para o repositório principal : git push origin nome da Branch Principal
