@@ -1,6 +1,6 @@
 criar uma Branch nova : git checkout -b nome da nova Branch
 
-saber Branch que está : git status
+saber Branch que está : git status // exemplo : No ramo secondary
 
 subir commit para a branch secundaria : git push origin nova Branch
 
