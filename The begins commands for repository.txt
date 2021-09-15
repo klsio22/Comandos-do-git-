@@ -4,7 +4,7 @@
 echo "#name-repository" >> README.md
 git init
 git add README.md //optional
-git commit -m "first commit"
+git commit -am "first commit" //To add and create a message
 git branch -M main
 git remote add origin git@github.com:nameUser/name-repositore.git
 git push -u origin main
